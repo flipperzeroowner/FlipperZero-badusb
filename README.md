@@ -1,1 +1,1 @@
-# FlipperZero-badusb
+this repo is for badusb script and other cool stuff i have no clue if they will work i just started codeing and its mostly off offensive but i will try to make some defensive but feel free to take the script and hack the planet 
